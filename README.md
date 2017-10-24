@@ -1,2 +1,3 @@
-# TechStart Portfolio
-## Ben Kinser
+# Ben Kinser
+**My TechStart Portfolio**
+
